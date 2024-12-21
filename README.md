@@ -9,5 +9,4 @@ Python Libraries for Computer Vision, including OpenCV and PIL.
 
 📫 How to Reach Me
 📧 Email: alirezakeyvan06@yahoo.com
-🔗 LinkedIn: https://www.linkedin.com/in/alireza-keivan/
-in [https://www.linkedin.com/in/alireza-keivan/](#Linkdin) 
+🔗 LinkedIn: [alireza-keivan](https://www.linkedin.com/in/alireza-keivan/)
