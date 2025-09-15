@@ -8,5 +8,5 @@ Transfer Learning using pre-trained models such as ResNet, VGG, and EfficientNet
 Python Libraries for Computer Vision, including OpenCV and PIL.
 
 📫 How to Reach Me
-📧 Email: alirezakeyvan06@yahoo.com
+📧 Email: alirezakeyvan06@gmail.com
 🔗 LinkedIn: [alireza-keivan](https://www.linkedin.com/in/alireza-keivan/)
