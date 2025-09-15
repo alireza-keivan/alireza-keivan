@@ -1,11 +1,12 @@
 
-Welcome to my GitHub profile! I'm a Bachelor of Computer Engineering graduate with a passion for cutting-edge technologies in Computer Vision, Convolutional Neural Networks (CNNs), and Artificial Intelligence (AI). My goal is to contribute to innovative projects that push the boundaries of machine learning and deep learning.
+Welcome to my GitHub profile! I'm a Bachelor of Computer Engineering graduate with a passion for cutting-edge technologies in Computer Vision, and CNNs. Many people have helped me get to this point, and I just want to contribute, give back, or anything you name:)
 
-🌱 Currently Learning
-Object Detection Frameworks like YOLO and Faster R-CNN.
-Image Segmentation Techniques for tasks like semantic and instance segmentation.
-Transfer Learning using pre-trained models such as ResNet, VGG, and EfficientNet.
-Python Libraries for Computer Vision, including OpenCV and PIL.
+CURRENT ME: 
+
+Working on Openvino and optimization because computational costs speak first :)
+Watching [Stanford's CS231n lectures](https://www.youtube.com/watch?v=dyNGd06MWn4), and highly recommending you all to watch it if interested in computer vision! 
+While learning new YOLO versions, scipy, and etc., I'm practicing simple Python's classes, reading articles, and solving related math problems to postpone or if I'm lucky, avoid the amnesia :)
+
 
 📫 How to Reach Me
 📧 Email: alirezakeyvan06@gmail.com
