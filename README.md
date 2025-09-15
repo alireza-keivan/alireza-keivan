@@ -1,5 +1,5 @@
 
-Welcome to my GitHub profile! I'm a Bachelor of Computer Engineering graduate with a passion for cutting-edge technologies in Computer Vision, and CNNs. Many people have helped me get to this point, and I just want to contribute, give back, or anything you name:)
+Welcome to my GitHub profile! I'm a Bachelor of Computer Engineering with a passion for cutting-edge technologies in Computer Vision, and CNNs. Many people have helped me get to this point, and I just want to contribute, give back, or anything you name:)
 
 CURRENT ME: 
 
