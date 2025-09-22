@@ -5,7 +5,7 @@ CURRENT ME:
 
 Working on Openvino and optimization because computational costs speak first :)
 Watching [Stanford's CS231n lectures](https://www.youtube.com/watch?v=dyNGd06MWn4), and highly recommending you all to watch it if interested in computer vision! 
-While learning new YOLO versions, scipy, and etc., I'm practicing simple Python's classes, reading articles, and solving related math problems to postpone or if I'm lucky, avoid the amnesia :)
+While learning new YOLO versions, scipy, and etc., I'm practicing simple Python's classes, reading articles, and solving related math problems to avoid the amnesia :)
 
 
 📫 How to Reach Me
