@@ -1,5 +1,4 @@
-
-Welcome to my GitHub profile! I'm a Bachelor of Computer Engineering with a passion for cutting-edge technologies in Computer Vision, and CNNs. Many people have helped me get to this point, and I just want to give back:)
+I'm a Bachelor of Computer Engineering with a passion for cutting-edge technologies in Computer Vision, and particularly, CNNs. Many people have helped me get to this point, so I just want to give back:)
 
 CURRENT ME: 
 
